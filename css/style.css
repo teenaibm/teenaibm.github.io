@@ -107,7 +107,7 @@ table, th, td {
 
 /* Newsletter */
 #newsletter{
-  padding:15px;
+  padding:2px;
   color:#ffffff;
   background:#35424a
 }
@@ -171,8 +171,8 @@ ul#services li{
 }
 
 footer{
-  padding:20px;
-  margin-top:20px;
+  padding:1px;
+  margin-top:1px;
   color:#ffffff;
   background-color:#e8491d;
   text-align: center;
